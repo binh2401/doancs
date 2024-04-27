@@ -34,9 +34,6 @@
     } else {
         $tam = '';
     }
-    if ($tam == 'dangnhap') {
-        include("/xampp/htdocs/BOOKSTORE/pages/dkvsdn/login.php");
-    }
     ?>
 
 
